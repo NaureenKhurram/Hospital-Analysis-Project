@@ -19,9 +19,10 @@ Data analysis techniques (CTEs, window functions, sub-queries, aggregations)
 * A small number of patients account for a high number of visits.
 * Nearly half of encounters have no insurance coverage.
 * Most encounters are short in duration.
-* Readmission rates vary significantly depending on definition used.
+* Readmission rates vary significantly.
 
 ### Files
 
-hospital_analysis.sql → all SQL queries used for analysis
+Hospital analysis queries.sql → all SQL queries used for analysis and EDA
+
 Hospital analysis report.pdf → full analysis and findings
