@@ -3,11 +3,11 @@
 This project analyses synthetic hospital data to generate insights on patient behaviour, encounter patterns, cost trends, and readmissions.
 
 ### Key Areas
-Patient demographics
-Patient utilisation
-Encounter analysis
-Cost and coverage
-Readmissions
+* Patient demographics
+* Patient utilisation
+* Encounter analysis
+* Cost and coverage
+* Readmissions
 
 ### Tools Used
 SQL (PostgreSQL)
