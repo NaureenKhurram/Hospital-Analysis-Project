@@ -1,4 +1,4 @@
-# Hospital Performance Analysis
+# Hospital Data Analysis
 
 This project analyses synthetic hospital data to generate insights on patient behaviour, encounter patterns, cost trends, and readmissions.
 
